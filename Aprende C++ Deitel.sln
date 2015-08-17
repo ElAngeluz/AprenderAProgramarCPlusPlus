@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Introduccion C++", "Introduccion C++\Introduccion C++.vcxproj", "{678CC7E8-6A31-437F-BA6C-98DEE612AA3E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Estructuras de Control", "Estructuras de Control\Estructuras de Control.vcxproj", "{BC2E613E-02F4-41AD-A945-15D648BAE552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678CC7E8-6A31-437F-BA6C-98DEE612AA3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{678CC7E8-6A31-437F-BA6C-98DEE612AA3E}.Debug|Win32.Build.0 = Debug|Win32
+		{678CC7E8-6A31-437F-BA6C-98DEE612AA3E}.Release|Win32.ActiveCfg = Release|Win32
+		{678CC7E8-6A31-437F-BA6C-98DEE612AA3E}.Release|Win32.Build.0 = Release|Win32
+		{BC2E613E-02F4-41AD-A945-15D648BAE552}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC2E613E-02F4-41AD-A945-15D648BAE552}.Debug|Win32.Build.0 = Debug|Win32
+		{BC2E613E-02F4-41AD-A945-15D648BAE552}.Release|Win32.ActiveCfg = Release|Win32
+		{BC2E613E-02F4-41AD-A945-15D648BAE552}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
