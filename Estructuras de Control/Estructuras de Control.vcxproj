@@ -81,7 +81,10 @@
     <ClCompile Include="..\Introduccion C++\EstructuraControlCentinela.cpp" />
     <ClCompile Include="..\Introduccion C++\EstructurasDeControl.cpp" />
     <ClCompile Include="Contador.cpp" />
+    <ClCompile Include="ConteoLetrasCalificacion.cpp" />
     <ClCompile Include="Pre-Post-Incremento.cpp" />
+    <ClCompile Include="UsoBreak.cpp" />
+    <ClCompile Include="UsoContinue.cpp" />
     <ClCompile Include="UsoDeFor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
