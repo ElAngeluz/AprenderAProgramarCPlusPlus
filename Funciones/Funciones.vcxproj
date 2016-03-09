@@ -147,7 +147,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Basica.cpp" />
+    <ClCompile Include="Ejemplo de alcances.cpp" />
+    <ClCompile Include="Funcion Factorial.cpp" />
+    <ClCompile Include="Funcion Fibonacci.cpp" />
+    <ClCompile Include="Juego de Azar.cpp" />
+    <ClCompile Include="parametros.cpp" />
     <ClCompile Include="Seleccion de 3 numeros.cpp" />
+    <ClCompile Include="Tiro de Dados Random.cpp" />
     <ClCompile Include="tiro de dados.cpp" />
     <ClCompile Include="Uso de Rand.cpp" />
   </ItemGroup>
