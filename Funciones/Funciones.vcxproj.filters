@@ -48,5 +48,11 @@
     <ClCompile Include="OperadorUnario.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SobrecargaFunciones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlantillaFuncion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

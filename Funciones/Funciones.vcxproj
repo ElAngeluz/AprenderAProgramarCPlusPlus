@@ -153,7 +153,9 @@
     <ClCompile Include="Juego de Azar.cpp" />
     <ClCompile Include="OperadorUnario.cpp" />
     <ClCompile Include="parametros.cpp" />
+    <ClCompile Include="PlantillaFuncion.cpp" />
     <ClCompile Include="Seleccion de 3 numeros.cpp" />
+    <ClCompile Include="SobrecargaFunciones.cpp" />
     <ClCompile Include="Tiro de Dados Random.cpp" />
     <ClCompile Include="tiro de dados.cpp" />
     <ClCompile Include="Uso de Rand.cpp" />
