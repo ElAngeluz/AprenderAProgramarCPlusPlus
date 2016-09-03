@@ -24,5 +24,11 @@
     <ClCompile Include="TirarDados.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="EncuestaEstudiantes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TratamientoArreglo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

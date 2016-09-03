@@ -20,8 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Prueba\IniciarArreglo.cpp" />
+    <ClCompile Include="EncuestaEstudiantes.cpp" />
     <ClCompile Include="SumaElementosArreglo.cpp" />
     <ClCompile Include="TirarDados.cpp" />
+    <ClCompile Include="TratamientoArreglo.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{229292F6-219B-45B4-B484-ED55131EAAFC}</ProjectGuid>

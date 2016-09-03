@@ -1,3 +1,5 @@
+//4.10
+
 #include <iostream>
 #include <iomanip>
 #include <ctime>
@@ -17,7 +19,6 @@ void main()
 
 	for (int i = 0; i < tamanoArreglo; i++)
 		cout << setw(4) << i << setw(13) << frecuencia[i] << endl;
-
 
 	system("\npause");
 }
